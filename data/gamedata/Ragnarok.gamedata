@@ -1,0 +1,16 @@
+{
+  "Application": "ark",
+  "Version": "1.1.0",
+  "Created": "2026-07-01T00:00:00.000Z",
+  "GameMaps": [
+    {"IsSotF": false, "ClassName": "Ragnarok", "Description": "Ragnarok", "Mod": "Ragnarok"}
+  ],
+  "Creatures": [
+    {"NameTag": "Griffin", "IsSpawnable": true, "IsTameable": true, "IsBreedingable": true, "ClassName": "Griffin_Character_BP_C", "Description": "Griffin", "Mod": "Ragnarok"},
+    {"NameTag": "PolarBear", "IsSpawnable": true, "IsTameable": true, "IsBreedingable": true, "ClassName": "PolarBear_Character_BP_C", "Description": "Polar Bear", "Mod": "Ragnarok"},
+    {"NameTag": "IceWyvern", "IsSpawnable": true, "IsTameable": false, "IsBreedingable": true, "ClassName": "IceWyvern_Character_BP_C", "Description": "Ice Wyvern", "Mod": "Ragnarok"},
+    {"NameTag": "Iceworm", "IsSpawnable": true, "IsTameable": false, "IsBreedingable": false, "ClassName": "Iceworm_Character_BP_C", "Description": "Iceworm", "Mod": "Ragnarok"},
+    {"NameTag": "IcewormQueen", "IsSpawnable": true, "IsTameable": false, "IsBreedingable": false, "ClassName": "Iceworm_Character_Queen_C", "Description": "Iceworm Queen", "Mod": "Ragnarok"},
+    {"NameTag": "LavaGolem", "IsSpawnable": true, "IsTameable": false, "IsBreedingable": false, "ClassName": "LavaGolem_Character_BP_C", "Description": "Lava Golem", "Mod": "Ragnarok"}
+  ]
+}

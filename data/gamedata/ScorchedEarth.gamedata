@@ -1,0 +1,20 @@
+{
+  "Application": "ark",
+  "Version": "1.0.0",
+  "Created": "2026-07-01T00:00:00.000Z",
+  "Creatures": [
+    {"NameTag": "Camelsaurus", "IsSpawnable": true, "IsTameable": true, "IsBreedingable": true, "ClassName": "Camelsaurus_Character_BP_C", "Description": "Morellatops", "Mod": "ScorchedEarth"},
+    {"NameTag": "Deathworm", "IsSpawnable": true, "IsTameable": false, "IsBreedingable": false, "ClassName": "Deathworm_Character_BP_C", "Description": "Deathworm", "Mod": "ScorchedEarth"},
+    {"NameTag": "Jerboa", "IsSpawnable": true, "IsTameable": true, "IsBreedingable": true, "ClassName": "Jerboa_Character_BP_C", "Description": "Jerboa", "Mod": "ScorchedEarth"},
+    {"NameTag": "JugBug", "IsSpawnable": true, "IsTameable": false, "IsBreedingable": false, "ClassName": "JugBug_Character_BP_C", "Description": "Jug Bug", "Mod": "ScorchedEarth"},
+    {"NameTag": "Mantis", "IsSpawnable": true, "IsTameable": true, "IsBreedingable": true, "ClassName": "Mantis_Character_BP_C", "Description": "Mantis", "Mod": "ScorchedEarth"},
+    {"NameTag": "Moth", "IsSpawnable": true, "IsTameable": true, "IsBreedingable": true, "ClassName": "Moth_Character_BP_C", "Description": "Lymantria", "Mod": "ScorchedEarth"},
+    {"NameTag": "Phoenix", "IsSpawnable": true, "IsTameable": true, "IsBreedingable": false, "ClassName": "Phoenix_Character_BP_C", "Description": "Phoenix", "Mod": "ScorchedEarth"},
+    {"NameTag": "RockElemental", "IsSpawnable": true, "IsTameable": true, "IsBreedingable": false, "ClassName": "RockElemental_Character_BP_C", "Description": "Rock Elemental", "Mod": "ScorchedEarth"},
+    {"NameTag": "SpineyLizard", "IsSpawnable": true, "IsTameable": true, "IsBreedingable": true, "ClassName": "SpineyLizard_Character_BP_C", "Description": "Thorny Dragon", "Mod": "ScorchedEarth"},
+    {"NameTag": "Vulture", "IsSpawnable": true, "IsTameable": true, "IsBreedingable": true, "ClassName": "Vulture_Character_BP_C", "Description": "Vulture", "Mod": "ScorchedEarth"},
+    {"NameTag": "Wyvern", "IsSpawnable": true, "IsTameable": false, "IsBreedingable": true, "ClassName": "Wyvern_Character_BP_Fire_C", "Description": "Fire Wyvern", "Mod": "ScorchedEarth"},
+    {"NameTag": "WyvernL", "IsSpawnable": true, "IsTameable": false, "IsBreedingable": true, "ClassName": "Wyvern_Character_BP_Lightning_C", "Description": "Lightning Wyvern", "Mod": "ScorchedEarth"},
+    {"NameTag": "WyvernP", "IsSpawnable": true, "IsTameable": false, "IsBreedingable": true, "ClassName": "Wyvern_Character_BP_Poison_C", "Description": "Poison Wyvern", "Mod": "ScorchedEarth"}
+  ]
+}

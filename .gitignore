@@ -1,0 +1,16 @@
+# Bazy danych runtime (zawierają hasła/konfigurację serwerów — NIE publikować)
+*.db
+*.sqlite
+
+# Logi i pliki tymczasowe
+*.log
+.DS_Store
+Thumbs.db
+
+# Zależności Node.js (instalowane przez 
+pm install)
+node_modules/
+
+# Wyniki budowania (electron-builder) — nie publikować
+release/
+Ark_admin_Manager_instalator_1.0.28/

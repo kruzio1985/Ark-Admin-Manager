@@ -1,0 +1,31 @@
+{
+  "_comment": "Domyślne porty ARK per mapa. EDYTOWALNE — zmieniaj ręcznie na własne potrzeby. NIE hardkodowane w kodzie. Zakresy nie kolidują z: Dune (7777, 7778-7787, 27015-27016), SCUM (7042-7043), Rust (28015-28017).",
+  "ASE": {
+    "base": { "game": 7790, "query": 27017, "rcon": 32330 },
+    "maps": {
+      "TheIsland":     { "game": 7790, "query": 27017, "rcon": 32330 },
+      "TheCenter":     { "game": 7791, "query": 27018, "rcon": 32331 },
+      "ScorchedEarth": { "game": 7792, "query": 27019, "rcon": 32332 },
+      "Ragnarok":      { "game": 7793, "query": 27020, "rcon": 32333 },
+      "Aberration":    { "game": 7794, "query": 27021, "rcon": 32334 },
+      "Extinction":    { "game": 7795, "query": 27022, "rcon": 32335 },
+      "Valguero":      { "game": 7796, "query": 27023, "rcon": 32336 },
+      "Genesis":       { "game": 7797, "query": 27024, "rcon": 32337 },
+      "CrystalIsles":  { "game": 7798, "query": 27025, "rcon": 32338 },
+      "Genesis2":      { "game": 7799, "query": 27026, "rcon": 32339 },
+      "LostIsland":    { "game": 7800, "query": 27027, "rcon": 32340 },
+      "Fjordur":       { "game": 7801, "query": 27028, "rcon": 32341 }
+    }
+  },
+  "ASA": {
+    "base": { "game": 7850, "query": 27050, "rcon": 32400 },
+    "maps": {
+      "TheIsland":     { "game": 7850, "query": 27050, "rcon": 32400 },
+      "ScorchedEarth": { "game": 7851, "query": 27051, "rcon": 32401 },
+      "TheCenter":     { "game": 7852, "query": 27052, "rcon": 32402 },
+      "Aberration":    { "game": 7853, "query": 27053, "rcon": 32403 },
+      "Extinction":    { "game": 7854, "query": 27054, "rcon": 32404 },
+      "ClubARK":       { "game": 7855, "query": 27055, "rcon": 32405 }
+    }
+  }
+}

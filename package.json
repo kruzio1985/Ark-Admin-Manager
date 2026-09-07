@@ -1,0 +1,58 @@
+{
+  "name": "ark-admin-manager",
+  "version": "1.0.28",
+  "description": "ARK Admin Manager — Comprehensive server management for ARK: Survival Evolved (ASE) & ARK: Survival Ascended (ASA)",
+  "author": "Kruzio",
+  "license": "MIT",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "node dev-server.js",
+    "build:installer": "electron-builder --win",
+    "build:portable": "electron-builder --win portable"
+  },
+  "build": {
+    "appId": "com.arkadmin.manager",
+    "productName": "ARK Admin Manager",
+    "directories": {
+      "output": "../Ark_admin_Manager_instalator_1.0.27"
+    },
+    "extraResources": [
+      {
+        "from": "data",
+        "to": "data"
+      }
+    ],
+    "win": {
+      "target": [
+        { "target": "nsis", "arch": ["x64"] },
+        { "target": "portable", "arch": ["x64"] }
+      ],
+      "signAndEditExecutable": false,
+      "requestedExecutionLevel": "highestAvailable"
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": true,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "runAfterFinish": true
+    }
+  },
+  "dependencies": {
+    "sql.js": "^1.14.1",
+    "discord.js": "^14.18.0",
+    "express": "^4.21.2",
+    "ini": "^5.0.0",
+    "node-cron": "^3.0.3",
+    "systeminformation": "^5.25.11",
+    "portfinder": "^1.0.32",
+    "extract-zip": "^2.0.1",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "electron": "^33.3.1",
+    "electron-builder": "^25.1.8"
+  }
+}
