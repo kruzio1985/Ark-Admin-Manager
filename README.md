@@ -196,7 +196,7 @@ Wersję portable budujesz komendą `npm run build:portable` (szczegóły niżej)
 
 ### Dev
 ```powershell
-cd C:\Projects\OfflineWorkspace\PROJEKTY\PROJEKTY_W_BUDOWIE\ArkAdminManager
+cd ArkAdminManager  # folder ze sklonowanym repozytorium / cloned repo folder
 npm install
 npm run dev        # Express na http://localhost:3000 + Electron
 # lub
@@ -210,7 +210,7 @@ npm run build:installer   # NSIS (x64) + Portable (x64)
 
 **Wynik build** (zgodnie z `build.directories.output`):
 ```
-C:\Projects\OfflineWorkspace\PROJEKTY\PROJEKTY_W_BUDOWIE\Ark_admin_Manager_instalator_1.0.28\
+Ark_admin_Manager_instalator_1.0.28\
 ├── ARK Admin Manager Setup 1.0.28.exe   # instalator NSIS
 ├── ARK Admin Manager 1.0.28.exe         # wersja portable
 ├── ARK Admin Manager Setup 1.0.28.exe.blockmap
