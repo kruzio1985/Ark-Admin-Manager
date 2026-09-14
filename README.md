@@ -18,6 +18,14 @@
 
 ---
 
+## 📜 License / Licencja
+
+**EN:** This project is licensed under the **PolyForm Noncommercial License 1.0.0** — free for personal, non-commercial use. Commercial use and selling of this code are prohibited. See [LICENSE](LICENSE).
+
+**PL:** Ten projekt jest udostępniony na licencji **PolyForm Noncommercial License 1.0.0** — dozwolony jest wyłącznie prywatny, niekomercyjny użytek. Użycie komercyjne i sprzedaż kodu są zabronione. Zobacz [LICENSE](LICENSE).
+
+---
+
 ## 📖 Opis projektu / Project description
 
 **PL:** ARK Admin Manager to aplikacja desktopowa (Electron) do zarządzania dedykowanymi serwerami ARK na Windows. Obsługuje **obie generacje gry**:
