@@ -20,9 +20,9 @@
 
 ## 📜 License / Licencja
 
-**EN:** This project is licensed under the **PolyForm Noncommercial License 1.0.0** — free for personal, non-commercial use. Commercial use and selling of this code are prohibited. See [LICENSE](LICENSE).
+**EN:** This project is licensed under the **PolyForm Noncommercial License 1.0.0** — free for personal, non-commercial use. Commercial use and selling of this code are prohibited. Derivative works must retain this license and link back to this repository. See [LICENSE](LICENSE).
 
-**PL:** Ten projekt jest udostępniony na licencji **PolyForm Noncommercial License 1.0.0** — dozwolony jest wyłącznie prywatny, niekomercyjny użytek. Użycie komercyjne i sprzedaż kodu są zabronione. Zobacz [LICENSE](LICENSE).
+**PL:** Ten projekt jest udostępniony na licencji **PolyForm Noncommercial License 1.0.0** — dozwolony jest wyłącznie prywatny, niekomercyjny użytek. Użycie komercyjne i sprzedaż kodu są zabronione. Dzieła pochodne muszą zachować tę licencję i podać link do tego repozytorium. Zobacz [LICENSE](LICENSE).
 
 ---
 

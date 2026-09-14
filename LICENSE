@@ -4,6 +4,8 @@
 
 Copyright (c) 2026 Kruzio
 
+Required Notice: Copyright Kruzio — original repository: https://github.com/kruzio1985/Ark-Admin-Manager
+
 ## Acceptance
 
 In order to get any license under these terms, you must agree to them as both strict obligations and conditions to all your licenses.
@@ -73,3 +75,19 @@ The **licensor** is the individual or entity offering these terms, and the **sof
 **Your licenses** are all the licenses granted to you for the software under these terms.
 
 **Use** means anything you do with the software requiring one of your licenses.
+
+## Additional Terms (Addendum)
+
+The following additional terms apply to this license and take precedence where they are more restrictive.
+
+### Derivative Works and Attribution
+
+If You create changes, new works, or derivative works based on the software, and You distribute, share, publish, or otherwise make them available to any third party, You must:
+
+- retain this License (including this Addendum) and the copyright notice, unmodified, in all copies and derivative works;
+- clearly state that You changed the software and include a brief description of the changes; and
+- include a visible link to the original project repository: https://github.com/kruzio1985/Ark-Admin-Manager
+
+### No Removal of Attribution
+
+You may not remove or alter any copyright notice, license text, or attribution included with the software or with any derivative work based on it.
