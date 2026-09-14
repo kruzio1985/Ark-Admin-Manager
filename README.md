@@ -10,7 +10,7 @@
 | Wersja / Version | 1.0.28 |
 | Data build / Build date | 2026-09-07 |
 | Autor / Author | Kruzio |
-| Licencja / License | MIT |
+| Licencja / License | PolyForm Noncommercial 1.0.0 |
 | Framework | Electron 33.x + Node.js 20.x |
 | Instalator / Installer | electron-builder 25 (NSIS + Portable) |
 | Baza danych / Database | SQLite (sql.js — WASM) |

@@ -3,7 +3,7 @@
   "version": "1.0.28",
   "description": "ARK Admin Manager — Comprehensive server management for ARK: Survival Evolved (ASE) & ARK: Survival Ascended (ASA)",
   "author": "Kruzio",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
